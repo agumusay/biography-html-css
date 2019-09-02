@@ -31,16 +31,21 @@ You can find the content for each section here:
   * Content for section Early years: content/life/early-years.txt
   * Content for section New life in Paris: content/life/new-life-in-Paris.txt
   * Content for section New elements: content/life/new-elements.txt
+
     images:
       link: https://upload.wikimedia.org/wikipedia/commons/6/6c/Pierre_and_Marie_Curie.jpg
+
       text: Pierre and Marie Curie in the laboratory
+
       add a link for the word Pierre leading to https://en.wikipedia.org/wiki/Pierre_Curie
 
   * Content for section Nobel Prizes: content/life/nobel-prizes.txt
 
   * Content for section Death: content/life/death.txt
+
     images:
       text: 1935 statue, facing the Radium Institute, Warsaw
+
       link: https://upload.wikimedia.org/wikipedia/commons/6/6c/Sklodowska-Curie_statue%2C_Warsaw.JPG
 
   * Content for legacy section:

@@ -1,14 +1,15 @@
 .text {
-    font-family: 'Source Sans Pro', serif;
+  font-family: "Source Sans Pro", serif;
 }
 .title {
-    font-family: 'Poppins', sans-serif;
+  font-family: "Poppins", sans-serif;
 }
 .quote {
-    font-family: 'Source Sans Pro', serif;
-    font-style: italic;  
+  font-family: "Source Sans Pro", serif;
+  font-style: italic;
 }
-img {
-    float: left;
-    margin-right: 25px;
+figure {
+  width: 50%;
+  float: left;
+  margin-right: 25px;
 }

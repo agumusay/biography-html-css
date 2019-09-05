@@ -16,7 +16,7 @@ figure {
 header {
   
   position: fixed;
-  width: 200px;
+  width: 300px;
   height: 100vh;
   z-index: 1;
   top: 0;
@@ -24,11 +24,12 @@ header {
   background-color: #111; 
   overflow-x: hidden; 
   padding-top: 20px;
-  color: #778899;
+  color: #badbfa;
   
 }
 nav a {
   text-decoration: none;
+  color: #badbfa;
   
   
 }
@@ -45,7 +46,7 @@ nav {
   padding: 6px 8px 6px 16px;
   text-decoration: none;
   font-size: 25px;
-  color: #778899;
+  color: #badbfa;
   display: block;
 }
 
@@ -54,6 +55,14 @@ nav a:hover {
 }
 
 main {
-  margin-left: 200px;
+  margin-left: 300px;
   padding: 0px 10px;
+}
+body {
+  background-color: #badbfa;
+}
+.quotes-link {
+  background-color: #badbfa;
+  display: block;
+  text-align: center;
 }
